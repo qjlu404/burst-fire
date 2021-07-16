@@ -1,4 +1,12 @@
-1000
-600
-700
-800
+300
+10
+1
+
+line 1 (int) = ms - how long each burst is
+line 2 (int) = ms1 - delay between shots
+line 3 (bool) = ch - 1 to hold, 0 to click repeatedly
+
+other info:
+time is in milsecs
+can edit edit during runtime
+havent tried with slower hard drives
